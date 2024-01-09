@@ -1,1 +1,1 @@
-{"lint":{"label":"Lint Status","status":"success","color":"31A802"},"test":{"label":"Test Status","status":"failure","color":"D10007"}}
+{"lint":{"label":"Lint Status","status":"success","color":"31A802"},"test":{"label":"Unit Test Status","status":"failure","color":"D10007"}}
